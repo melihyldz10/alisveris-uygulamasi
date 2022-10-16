@@ -1,0 +1,10 @@
+C:\Users\melih\source\repos\Gp4\Gp4\bin\Debug\Gp4.exe.config
+C:\Users\melih\source\repos\Gp4\Gp4\bin\Debug\Gp4.exe
+C:\Users\melih\source\repos\Gp4\Gp4\bin\Debug\Gp4.pdb
+C:\Users\melih\source\repos\Gp4\Gp4\obj\Debug\Gp4.csprojAssemblyReference.cache
+C:\Users\melih\source\repos\Gp4\Gp4\obj\Debug\Gp4.Form1.resources
+C:\Users\melih\source\repos\Gp4\Gp4\obj\Debug\Gp4.Properties.Resources.resources
+C:\Users\melih\source\repos\Gp4\Gp4\obj\Debug\Gp4.csproj.GenerateResource.cache
+C:\Users\melih\source\repos\Gp4\Gp4\obj\Debug\Gp4.csproj.CoreCompileInputs.cache
+C:\Users\melih\source\repos\Gp4\Gp4\obj\Debug\Gp4.exe
+C:\Users\melih\source\repos\Gp4\Gp4\obj\Debug\Gp4.pdb
